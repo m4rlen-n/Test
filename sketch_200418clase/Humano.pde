@@ -22,6 +22,11 @@ class Humano
     manos = new Mano();
     numManos = manos.GetNumManos();
   }
+  
+  Humano()
+  {
+  
+  }
 // los metodos son publicos para poder acceder desde fuera
   public void dormir()
   {
