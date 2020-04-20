@@ -11,8 +11,8 @@
   h.GetMano().Agarrar();
   h.PuedeSalirCon(h2);
   
-  n = new Nino("Carlos");
-  n.Jugar();
+ // n = new Nino("Carlos");
+  //n.Jugar();
   
   
 }
